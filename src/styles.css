@@ -1,1 +1,27 @@
 /* Add application styles & imports to this file! */
+body {
+  background-color: #333333
+}
+
+.container {
+  margin-top: 60px;
+}
+
+.text-bootstrap {
+  color: #563D7C;
+}
+
+.bg-wendellmva {
+  background-color: #E7701F !important;
+  color: white;
+}
+
+.bg-wendellmva-dark {
+  background-color: #444444 !important;
+  color: white;
+}
+
+.bg-wendellmva-darker {
+  background-color: #333333 !important;
+  color: gray;
+}
